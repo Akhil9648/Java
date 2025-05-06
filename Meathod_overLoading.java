@@ -16,3 +16,4 @@ public static void main(String [] args){
     System.out.println(c.add(4));
 }
 }
+/* Meathod overloading refers to making multiple functions with a same name but performing differnt properties and having different parameters in a Specific Class */
